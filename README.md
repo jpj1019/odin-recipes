@@ -1,2 +1,2 @@
-# odin-recipes
-Current Project: create basic website pointing to three different recipes.
+# EASY RECIPES
+GOAL: create basic website, with some pictures, pointing to three different recipes.
